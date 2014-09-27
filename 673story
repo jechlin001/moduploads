@@ -1,0 +1,22 @@
+Dedeker Randolph
+Hello, I was scheduled to begin work today but I seem to have no user account or access of any kind to company resources. Please help.
+
+Richard LeGrand
+SO I HEAR THE NEW TEMPORARY SECURITY CONSULTANT MS RANDOLPH DOES NOT YET HAVE AN ACCOUNT OR CONNECTED SYSTEM THIS SHOULD HAVE BEEN DONE LONG AGO AND I DON’T HAVE TIME FOR THIS YOU KEYBOARD MONKEY, FIX IT.
+SENT FROM MY PHONE
+RICHARD LEGRAND 
+
+Gary Thatcher
+Hello @playerone as you can see things are a bit stressful lately and I have not had time to work on some of these more trivial matters, many other things have taken my attention so I leave the task in your capable hands. 
+
+Billy Gates
+Hi @playerone, I have been assigned to help you along with adding Ms Randolph our new temporary security consultant  to our network, there are certain considerations that must be taken into account. Ms Randolph must have a statically addressed IP address on her Kali Linux workstation of 172.16.30.6 with a DNS of the AD address which is 172.16.30.5 and a DNS entry in the AD . This entry must identify the system as SecConsultantKali within the domain of ad.dasweb.com. Ms Randolph's local hostname must also be changed to SecConsultantKali and it must be added to the hosts file. Create an account on the system with the login of drandolph with a password of your choosing. The new account should have sudoers privileges with a new home directory and the default shell should be set to bash. Good luck @playerone!
+
+Gary Thatcher
+So in closing you must
+Set Ms Randolphs’s hostname to SecConsultantKali and add this to the hosts file.
+Set Ms Randolphs’s workstation ip address to 172.16.30.6 with the gateway of 172.16.30.2 and the appropriate subnetmask and DNS server
+Add Ms Randolph’s workstation to the AD DNS.
+Create an account on Ms Randolph’s system with the login of drandolph and set a password of your choosing.
+Ms Randolph’s new account should have sudoers privileges and a home directory should be made for her.
+Ms Randolph’s default shell should be set to bash
