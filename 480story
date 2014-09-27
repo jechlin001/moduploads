@@ -1,0 +1,24 @@
+Gary Thatcher
+Greeting @playerone, recently I discovered a thumb drive attached to the system of an employee who will remain nameless. This is a violation of our company IT security policy. Per company policy, a forensically sound duplicate of this drive must be made in case we need to inspect it later to determine whether it is of a malicious nature and whether or not we need to get legal involved. I have assigned this task to you and I will of course check your work. Please see Ione Leventis for further details
+
+Ione Leventis
+I can’t believe I have to do another one of these…. oh hi @playerone. Gary Thatcher has me doing his work again so you will need to take care of this. The thumb drive that was found has been attached to our sheepdip machine which is currently the Kali Linux machine. 
+
+Billy Gates
+@playerone I had to do this for a drive that we found on company property once and it turns out it was our CEO’s Richard LeGrand’s drive I won’t mention what was on it but suffice it to say, good luck….
+
+Richard LeGrand
+YES BILLY THAT WOULD BE BEST
+
+SENT FROM MY PHONE - DICTATED BUT NOT READ
+RICHARD LeGRAND 
+
+Ione Leventis
+@playerone, you can ignore them, but obviously confidentiality is of paramount importance in this task. You will need to make a forensic duplicate of the thumb drive which is mounted at /mount/ForensicEvidence using the forensic utility dcfldd and the image should be stored in /forensicimages. A SHA512 hash should be taken of both the mount point at /mnt/ForensicEvidence and of the image /forensicimages/forensicimage.dd created by dcfldd and the two should be compared to one another. These hashes must match so we can be certain of the integrity of the potential evidence.
+
+Ione Leventis
+@playerone In summary you must 
+
+1. Use dcfldd to make a forensically sound image and hash of the thumb drive mounted at /mnt/ForensicEvidence
+
+2. Store the image in /ForensicImages/forensicimage.dd
